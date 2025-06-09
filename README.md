@@ -1,5 +1,5 @@
 # BaiTieuLuan_python
-##link youtube: https://youtu.be/4FV5y877dGQ?si=sswoad5LfimEarcs
+##link youtube bài thuyết trình: https://youtu.be/4FV5y877dGQ?si=sswoad5LfimEarcs
 ### ĐỀ BÀI
 Đầu bài:
 Triển khai game Tic-Tac-Toe (Chapter 6) với giao diện tkinter: bảng 3×3 và thông báo kết quả.
